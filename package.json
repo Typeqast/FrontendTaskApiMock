@@ -21,7 +21,7 @@
     "app-root": "^3.0.0",
     "app-root-path": "^3.0.0",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "fs-extra": "^8.1.0",
     "jimp": "^0.9.3",
     "json-server": "^0.16.0",
